@@ -1,0 +1,27 @@
+논문 내용을 아래 형태로 정리해줘. 그리고 논문 어느 부분에서 해당 내용들이 있는지도 각주를 붙여서 알려줘.
+
+# Summary
+
+## 1-Line
+
+## 3-Line
+
+## 5-Line
+
+# Paper Review
+
+## Abstract / Motivation
+
+>
+
+## Background
+
+>
+
+## Targetting Problems
+
+>
+
+## Suggestions / Methods
+
+>
