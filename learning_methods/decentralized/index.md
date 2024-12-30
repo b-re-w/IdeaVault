@@ -1,0 +1,8 @@
+## Paper review index for Decentralized Learning
+
+| Index                                                                                    | Title & Link                                                                                                                      | Paper                                                                                        | Submission | Year |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---------- | ---- |
+| [[S01. Swarm Learning for decentralized and confidential clinical machine learning\|S01]] | [Swarm Learning for decentralized and confidential clinical machine learning](https://www.nature.com/articles/s41586-021-03583-3) | [[S01. Swarm Learning for decentralized and confidential clinical machine learning.pdf\|pdf]] | #Nature    | 2021 |
+|                                                                                          |                                                                                                                                   |                                                                                              |            |      |
+
+![[41586_2021_3583_Fig1_HTML.webp]]
