@@ -17,14 +17,41 @@ review date: {{date}}
 ## 1-Line
 
 ```
+
 ```
 ## 3-Line
 
 ```
+
+```
+
+```
+
+```
+
+```
+
 ```
 ## 5-Line
 
 ```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
 ```
 
 
@@ -38,7 +65,7 @@ review date: {{date}}
 
 > ??
 
-## Targetting Problems
+## Targeting Problems
 
 > ??
 

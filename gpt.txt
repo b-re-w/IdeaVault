@@ -1,7 +1,9 @@
-논문 내용을 아래 형태로 정리해줘. 그리고 논문 어느 부분에서 해당 내용들이 있는지도 각주를 붙여서 알려줘.
+논문 내용을 아래 형태로 매우 자세하게 분석하여 정리해줘. 그리고 논문 어느 부분에서 해당 내용들이 있는지도 각주를 붙여서 알려줘.
+각주에는 페이지 및 섹션 번호를 넣어주고, 각주를 따로 빼지 말고 각 문장 끝에 []로 감싸서 넣어줘.
+그리고 정확한 출처 표기를 위해 논문에서의 영어 원문도 각각을 첨부해줘.
+
 
 # Summary
-
 ## 1-Line
 
 ## 3-Line
@@ -9,19 +11,14 @@
 ## 5-Line
 
 # Paper Review
-
 ## Abstract / Motivation
-
 >
 
 ## Background
-
 >
 
-## Targetting Problems
-
+## Targeting Problems
 >
 
 ## Suggestions / Methods
-
 >
