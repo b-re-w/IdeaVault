@@ -11,14 +11,12 @@
             "id": "38845134d545c78c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "learning_methods/test_time/index.md",
-                "mode": "source",
-                "source": false
+                "file": "learning_methods/test_time/paper/01. Test-time training with self-supervision for generalization under distribution shifts.pdf"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-file-text",
+              "title": "01. Test-time training with self-supervision for generalization under distribution shifts"
             },
             "group": "a22c4b9964c62083"
           }
@@ -34,7 +32,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "learning_methods/test_time/index.md",
+                "file": "learning_methods/test_time/paper/01. Test-time training with self-supervision for generalization under distribution shifts.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,8 +203,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "41e1ddb3d7f1fa35",
+  "active": "38845134d545c78c",
   "lastOpenFiles": [
+    "learning_methods/test_time/index.md",
     "learning_methods/test_time/11. A Comprehensive Survey on Test-Time Adaptation Under Distribution Shifts.md",
     "model_archs/forward/index.md",
     "model_archs/recurrent/01. Training RNNs as Fast as CNNs.md",
