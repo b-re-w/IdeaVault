@@ -174,13 +174,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "38845134d545c78c",
   "lastOpenFiles": [
-    "learning_methods/test_time/paper/01. Test-time training with self-supervision for generalization under distribution shifts.pdf",
+    "model_archs/transformers/index.md",
+    "model_archs/transformers/01. Learning to (Learn at Test Time) - RNNs with Expressive Hidden States.md",
+    "model_archs/transformers/paper/01. Learning to (Learn at Test Time) - RNNs with Expressive Hidden States.pdf",
     "learning_methods/test_time/index.md",
+    "learning_methods/test_time/paper/01. Test-time training with self-supervision for generalization under distribution shifts.pdf",
     "learning_methods/test_time/11. A Comprehensive Survey on Test-Time Adaptation Under Distribution Shifts.md",
     "model_archs/forward/index.md",
     "model_archs/recurrent/01. Training RNNs as Fast as CNNs.md",
