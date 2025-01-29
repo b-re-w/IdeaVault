@@ -177,9 +177,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "38845134d545c78c",
