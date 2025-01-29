@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "90449be0daf6ff6b",
+        "id": "6a7f5dc2b5f58054",
         "type": "tabs",
         "children": [
           {
-            "id": "c593634e034e6425",
+            "id": "941ce06c43db04c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "model_archs/transformers/idea/2024-2. Lattent - General Adoptation of the replacement of Self-Attention for vision tasks by using Self-supervised Persistent Fast-weight.md",
+                "file": "model_archs/transformers/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-2. Lattent - General Adoptation of the replacement of Self-Attention for vision tasks by using Self-supervised Persistent Fast-weight"
+              "title": "index"
             }
           }
         ]
@@ -190,83 +190,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "e4a4afbfe7a7146b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e05064621246f8d4",
-        "type": "window",
-        "children": [
-          {
-            "id": "70b04330b411e75f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0f5bf1e9e8fbc8e0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "index.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "index"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1856,
-        "y": 513,
-        "width": 564,
-        "height": 313,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "0f5bf1e9e8fbc8e0",
+  "active": "ff01e08ec1b68ac8",
   "lastOpenFiles": [
-    "model_archs/transformers/index.md",
+    "새 텍스트 문서.txt",
     "model_archs/transformers/idea/2024-2. Lattent - General Adoptation of the replacement of Self-Attention for vision tasks by using Self-supervised Persistent Fast-weight.md",
-    "model_archs/recurrent/index.md",
+    "learning_methods/test_time/05. MonoTTA - Fully test-time adaptation for monocular 3d object detection.md",
+    "learning_methods/test_time/10. Improved Test-Time Adaptation for Domain Generalization.md",
     "learning_methods/test_time/index.md",
+    "learning_methods/test_time/paper/01. Test-time training with self-supervision for generalization under distribution shifts.pdf",
+    "model_archs/transformers/index.md",
+    "model_archs/transformers/paper/V21. Focal Self-attention for Local-Global Interactions in Vision Transformers.pdf",
+    "model_archs/transformers/paper/V07. DINOv2 - Learning Robust Visual Features without Supervision.pdf",
+    "model_archs/transformers/L01. Learning to (Learn at Test Time) - RNNs with Expressive Hidden States.md",
+    "model_archs/transformers/paper/L02. Byte Latent Transformer - Patches Scale Better Than Tokens.pdf",
+    "model_archs/transformers/paper/L01. Learning to (Learn at Test Time) - RNNs with Expressive Hidden States.pdf",
+    "model_archs/recurrent/index.md",
+    "index.md",
+    "templates/Paper Review Template.md",
+    "learning_methods/test_time/11. A Comprehensive Survey on Test-Time Adaptation Under Distribution Shifts.md",
+    "learning_methods/test_time/09. Contrastive Test-Time Adaptation.md",
+    "learning_methods/test_time/paper/11. A Comprehensive Survey on Test-Time Adaptation Under Distribution Shifts.pdf",
+    "learning_methods/test_time/paper/03. Test-Time Training with Masked Autoencoders.pdf",
+    "learning_methods/test_time/paper/12. Universal Test-Time Adaptation Through Weight Ensembling, Diversity Weighting, and Prior Correction.pdf",
+    "learning_methods/test_time/paper/12. Universal Test-Time Adaptation Through Weight Ensembling, Diversity Weighting, and Prior Correction.pdf.crdownload",
+    "model_archs/transformers/paper/V19. CG ViT - Global Context Vision Transformer.pdf",
+    "learning_methods/test_time/06. Ev-TTA - Test-time adaptation for event-based object recognition.md",
+    "learning_methods/test_time/04. Fully Test-time Adaptation for Object Detection.md",
     "learning_methods/test_time/03. Test-time training with masked autoencoders.md",
+    "learning_methods/test_time/01. Test-time training with self-supervision for generalization under distribution shifts.md",
+    "learning_methods/test_time/08. Weakly Supervised Test-Time Domain Adaptation for Object Detection.md",
+    "learning_methods/test_time/07. Test Time Adaptation With Regularized Loss for Weakly Supervised Salient Object Detection.md",
     "learning_methods/test_time/02. Test-time training for out-of-distribution generalization.md",
     "learning_methods/decentralized/S01. Swarm Learning for decentralized and confidential clinical machine learning.md",
     "learning_methods/decentralized/index.md",
     "model_archs/transformers/idea/Lattent - General Adoptation of the replacement of Self-Attention for vision tasks by using Self-supervised Persistent Fast-weight.md",
-    "learning_methods/test_time/01. Test-time training with self-supervision for generalization under distribution shifts.md",
     "model_archs/recurrent/01. Training RNNs as Fast as CNNs.md",
-    "learning_methods/test_time/paper/10. Improved Test-Time Adaptation for Domain Generalization.pdf",
-    "learning_methods/test_time/paper/10. Improved Test-Time Adaptation for Domain Generalization.pdf.crdownload",
-    "learning_methods/test_time/paper/09. Contrastive Test-Time Adaptation.pdf",
-    "learning_methods/test_time/paper/09. Contrastive Test-Time Adaptation.pdf.crdownload",
-    "learning_methods/test_time/paper/08. Weakly Supervised Test-Time Domain Adaptation for Object Detection.pdf",
-    "learning_methods/test_time/paper/08. Weakly Supervised Test-Time Domain Adaptation for Object Detection.pdf.crdownload",
     "model_archs/transformers/01. Learning to (Learn at Test Time) - RNNs with Expressive Hidden States.md",
-    "learning_methods/test_time/paper/07. Test Time Adaptation With Regularized Loss for Weakly Supervised Salient Object Detection.pdf",
-    "learning_methods/test_time/paper/07. Test Time Adaptation With Regularized Loss for Weakly Supervised Salient Object Detection.pdf.crdownload",
-    "learning_methods/test_time/paper/06. Ev-tta - Test-time adaptation for event-based object recognition.pdf",
-    "learning_methods/test_time/paper/06. Ev-tta - Test-time adaptation for event-based object recognition.pdf.crdownload",
     "learning_methods/decentralized/41586_2021_3583_Fig1_HTML.webp",
     "model_archs/transformers/segformer_eval.png",
-    "index.md",
     "readme.md",
     "2024-12-27.md",
     "learning_methods/decentralized/paper/41586_2021_3583_Fig1_HTML.webp",
-    "templates/Paper Review Template.md",
-    "TTT/index.md",
-    "TTT/02. Test-time training for out-of-distribution generalization.md",
-    "TTT/01. Test-time training with self-supervision for generalization under distribution shifts.md",
-    "TTT/Test-time training for out-of-distribution generalization.md",
-    "2024-01-29.md",
-    "ReadMe.md",
-    "무제 파일.canvas",
-    "2024-11-12.md"
+    "무제 파일.canvas"
   ]
 }
