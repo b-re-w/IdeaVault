@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "model_archs/transformers/V27. LaVin-DiT - Large Vision Diffusion Transformer.md",
+                "file": "learning_methods/test_time/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "V27. LaVin-DiT - Large Vision Diffusion Transformer"
+              "title": "index"
             }
           }
         ],
@@ -73,7 +73,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -199,8 +200,9 @@
   },
   "active": "33375a6080ab0f90",
   "lastOpenFiles": [
-    "learning_methods/test_time/index.md",
+    "learning_methods/test_time/08. Weakly Supervised Test-Time Domain Adaptation for Object Detection.md",
     "model_archs/transformers/V27. LaVin-DiT - Large Vision Diffusion Transformer.md",
+    "learning_methods/test_time/index.md",
     "model_archs/transformers/paper/V07. DINOv2 - Learning Robust Visual Features without Supervision.pdf",
     "model_archs/transformers/paper/V17. Swin Transformer - Hierarchical Vision Transformer Using Shifted Windows.pdf",
     "model_archs/transformers/paper/V21. Focal Self-attention for Local-Global Interactions in Vision Transformers.pdf",
