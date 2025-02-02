@@ -11,14 +11,12 @@
             "id": "38845134d545c78c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "learning_methods/test_time/index.md",
-                "mode": "source",
-                "source": false
+                "file": "learning_methods/test_time/paper/03. Test-Time Training with Masked Autoencoders.pdf"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-file-text",
+              "title": "03. Test-Time Training with Masked Autoencoders"
             },
             "group": "a22c4b9964c62083"
           }
@@ -32,14 +30,12 @@
             "id": "86bb61163aa3b944",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "learning_methods/test_time/index.md",
-                "mode": "source",
-                "source": false
+                "file": "learning_methods/test_time/paper/03. Test-Time Training with Masked Autoencoders.pdf"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-file-text",
+              "title": "03. Test-Time Training with Masked Autoencoders"
             },
             "group": "a22c4b9964c62083"
           },
@@ -133,7 +129,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "learning_methods/test_time/index.md",
+            "file": "learning_methods/test_time/paper/03. Test-Time Training with Masked Autoencoders.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -198,11 +194,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "33375a6080ab0f90",
+  "active": "38845134d545c78c",
   "lastOpenFiles": [
+    "learning_methods/test_time/03. Test-time training with masked autoencoders.md",
+    "learning_methods/test_time/index.md",
     "learning_methods/test_time/08. Weakly Supervised Test-Time Domain Adaptation for Object Detection.md",
     "model_archs/transformers/V27. LaVin-DiT - Large Vision Diffusion Transformer.md",
-    "learning_methods/test_time/index.md",
     "model_archs/transformers/paper/V07. DINOv2 - Learning Robust Visual Features without Supervision.pdf",
     "model_archs/transformers/paper/V17. Swin Transformer - Hierarchical Vision Transformer Using Shifted Windows.pdf",
     "model_archs/transformers/paper/V21. Focal Self-attention for Local-Global Interactions in Vision Transformers.pdf",
