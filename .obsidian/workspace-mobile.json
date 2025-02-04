@@ -4,57 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "edf776431c80dfcf",
+        "id": "0168d03e6752ff61",
         "type": "tabs",
         "children": [
           {
-            "id": "38845134d545c78c",
+            "id": "a1ea34756a2db109",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "learning_methods/test_time/paper/03. Test-Time Training with Masked Autoencoders.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "03. Test-Time Training with Masked Autoencoders"
-            },
-            "group": "a22c4b9964c62083"
-          }
-        ]
-      },
-      {
-        "id": "890ea657cc47a2b1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "86bb61163aa3b944",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "learning_methods/test_time/paper/03. Test-Time Training with Masked Autoencoders.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "03. Test-Time Training with Masked Autoencoders"
-            },
-            "group": "a22c4b9964c62083"
-          },
-          {
-            "id": "33375a6080ab0f90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learning_methods/test_time/index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +92,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "learning_methods/test_time/paper/03. Test-Time Training with Masked Autoencoders.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -190,19 +152,23 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-kanban:Create new board": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38845134d545c78c",
+  "active": "a1ea34756a2db109",
   "lastOpenFiles": [
-    "learning_methods/test_time/03. Test-time training with masked autoencoders.md",
     "learning_methods/test_time/index.md",
-    "learning_methods/test_time/08. Weakly Supervised Test-Time Domain Adaptation for Object Detection.md",
+    "model_archs/transformers/paper/L01. Learning to (Learn at Test Time) - RNNs with Expressive Hidden States.pdf",
+    "model_archs/transformers/paper/L02. Byte Latent Transformer - Patches Scale Better Than Tokens.pdf",
     "model_archs/transformers/V27. LaVin-DiT - Large Vision Diffusion Transformer.md",
+    "model_archs/transformers/L01. Learning to (Learn at Test Time) - RNNs with Expressive Hidden States.md",
+    "learning_methods/test_time/paper/03. Test-Time Training with Masked Autoencoders.pdf",
+    "learning_methods/test_time/03. Test-time training with masked autoencoders.md",
+    "learning_methods/test_time/08. Weakly Supervised Test-Time Domain Adaptation for Object Detection.md",
     "model_archs/transformers/paper/V07. DINOv2 - Learning Robust Visual Features without Supervision.pdf",
     "model_archs/transformers/paper/V17. Swin Transformer - Hierarchical Vision Transformer Using Shifted Windows.pdf",
     "model_archs/transformers/paper/V21. Focal Self-attention for Local-Global Interactions in Vision Transformers.pdf",
-    "model_archs/transformers/L01. Learning to (Learn at Test Time) - RNNs with Expressive Hidden States.md",
     "model_archs/recurrent/paper/VS01. Vision mamba - Efficient visual representation learning with bidirectional state space model.pdf",
     "model_archs/recurrent/LR01. Training RNNs as Fast as CNNs.md",
     "model_archs/transformers/V07. DINOv2 - Learning Robust Visual Features without Supervision.md",
@@ -211,9 +177,6 @@
     "model_archs/recurrent/paper",
     "model_archs/transformers/paper/V19. CG ViT - Global Context Vision Transformer.pdf",
     "model_archs/transformers/V19. CG ViT - Global Context Vision Transformer.md",
-    "model_archs/transformers/paper/V05. UP-DETR - Unsupervised Pre-Training for Object Detection With Transformers.pdf",
-    "model_archs/transformers/paper/V27. LaVin-DiT - Large Vision Diffusion Transformer.pdf",
-    "model_archs/transformers/paper/V06. DINO - DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.pdf",
     "model_archs/transformers/V02. End-to-End Object Detection with Transformers.md",
     "model_archs/transformers/V06. DINO - DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.md",
     "model_archs/transformers/index.md",
