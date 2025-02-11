@@ -11,14 +11,12 @@
             "id": "a1ea34756a2db109",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "model_archs/transformers/index.md",
-                "mode": "source",
-                "source": false
+                "file": "model_archs/transformers/paper/L01. Learning to (Learn at Test Time) - RNNs with Expressive Hidden States.pdf"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-file-text",
+              "title": "L01. Learning to (Learn at Test Time) - RNNs with Expressive Hidden States"
             }
           }
         ]
@@ -96,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "model_archs/transformers/index.md",
+            "file": "model_archs/transformers/paper/L01. Learning to (Learn at Test Time) - RNNs with Expressive Hidden States.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,8 +161,8 @@
   },
   "active": "a1ea34756a2db109",
   "lastOpenFiles": [
-    "model_archs/transformers/L01. Learning to (Learn at Test Time) - RNNs with Expressive Hidden States.md",
     "model_archs/transformers/index.md",
+    "model_archs/transformers/L01. Learning to (Learn at Test Time) - RNNs with Expressive Hidden States.md",
     "model_archs/recurrent/index.md",
     "learning_methods/test_time/index.md",
     "model_archs/transformers/paper/L01. Learning to (Learn at Test Time) - RNNs with Expressive Hidden States.pdf",
