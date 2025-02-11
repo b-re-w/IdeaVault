@@ -96,6 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "model_archs/transformers/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -162,12 +163,13 @@
   },
   "active": "a1ea34756a2db109",
   "lastOpenFiles": [
+    "model_archs/transformers/L01. Learning to (Learn at Test Time) - RNNs with Expressive Hidden States.md",
+    "model_archs/transformers/index.md",
     "model_archs/recurrent/index.md",
     "learning_methods/test_time/index.md",
     "model_archs/transformers/paper/L01. Learning to (Learn at Test Time) - RNNs with Expressive Hidden States.pdf",
     "model_archs/transformers/paper/L02. Byte Latent Transformer - Patches Scale Better Than Tokens.pdf",
     "model_archs/transformers/V27. LaVin-DiT - Large Vision Diffusion Transformer.md",
-    "model_archs/transformers/L01. Learning to (Learn at Test Time) - RNNs with Expressive Hidden States.md",
     "learning_methods/test_time/paper/03. Test-Time Training with Masked Autoencoders.pdf",
     "learning_methods/test_time/03. Test-time training with masked autoencoders.md",
     "learning_methods/test_time/08. Weakly Supervised Test-Time Domain Adaptation for Object Detection.md",
@@ -184,7 +186,6 @@
     "model_archs/transformers/V19. CG ViT - Global Context Vision Transformer.md",
     "model_archs/transformers/V02. End-to-End Object Detection with Transformers.md",
     "model_archs/transformers/V06. DINO - DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.md",
-    "model_archs/transformers/index.md",
     "model_archs/transformers/01. Learning to (Learn at Test Time) - RNNs with Expressive Hidden States.md",
     "learning_methods/test_time/11. A Comprehensive Survey on Test-Time Adaptation Under Distribution Shifts.md",
     "model_archs/forward/index.md",
